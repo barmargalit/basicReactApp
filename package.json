@@ -1,7 +1,7 @@
 {
-  "name": "react-course-boiler-plate",
+  "name": "basic react app",
   "version": "1.0.0",
-  "description": "udemy course",
+  "description": "basic react app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
